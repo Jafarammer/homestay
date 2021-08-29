@@ -1,0 +1,16 @@
+.marker {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 5px;
+    background-color: lightblue;
+    width: 80px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .marker.selected {
+    background-color: orange;
+    border-color: lightblue;
+    font-weight: bold;
+  }
+  
